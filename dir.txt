@@ -1,0 +1,16 @@
+total 200
+-rw-rw-rw-   2 Bob  staff      0 Jun 19 08:09 -
+drwxr-xr-x  15 Bob  staff    510 Jun 19 08:14 .
+drwx------+ 21 Bob  staff    714 Jun  8 15:20 ..
+-rw-r--r--@  1 Bob  staff   6148 Jun 19 08:11 .DS_Store
+drwxr-xr-x  15 Bob  staff    510 May 12 13:49 .git
+-rw-r--r--   1 Bob  staff   1078 May  1 15:18 LICENSE
+-rw-r--r--   1 Bob  staff     27 May  1 15:18 README.md
+-rw-r--r--   1 Bob  staff      0 Jun 19 08:14 dir.txt
+-rw-r--r--@  2 Bob  staff     34 Jun 19 08:10 mergy
+-rw-r--r--   1 Bob  staff     37 May 12 13:38 mergy.html
+-rw-r--r--@  2 Bob  staff     34 Jun 19 08:10 mergy.txt
+-rw-r--r--   1 Bob  staff     75 May 12 13:18 newGitFile.txt
+-rw-r--r--   1 Bob  staff      0 May 12 13:18 newTestFile.txt
+-rw-r--r--@  1 Bob  staff  66589 May  1 15:20 test doc.pages
+-rw-r--r--   1 Bob  staff      0 May 12 13:45 test.txt

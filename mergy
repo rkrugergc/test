@@ -1,0 +1,25 @@
+Rev 2. Here’s some text. And some more/Users
+
+gcweb.he.net
+
+184.105.204.3
+
+yuz4soqb
+
+<a ui-sref="base.site({siteId:fsr.site.ID})" class="relative ellipsis ng-binding" href="#/sites/23eaadd2-19cf-4a78-bb5b-6e82913037be"><i class="fa fa-angle-double-left absolute"></i>Test 3</a>
+
+
+'100096', '923', '2011-03-14 23:45:44', 'David Crow', '200170', 'ya29.AHES6ZT7hDtSgmBxtxlSBLdZJny7Ptpc5RMKF2ulu1P_i', '2014-08-25 17:59:50', '0', 'TM', 'dcrow@g-c.com', '2014-08-18 17:59:50', 'v4.3.086'
+
+/Bob/Documents/gc-reporting-service/src/email-service/src/batch/pdfcreate/src/fsrreport.js
+
+
+1.	FSR-Date Time: Should enter a date and time on save, even if not saved. Choosing a new date should not reset the time to noon.
+2.	Page index  and search state for sites page is preserved when you navigate back to it.
+3.	RSI note: “Ranges based on Product Data Manual” shows up next to RSI sample item.
+4.	If a contact is both interviewed and copied, it only  shows up under interviewed. If only under copied, just shows copied.
+5.	Removed the Pop up for the systems page that chooses what type of system.
+6.	Water Samples + should be “+Water Sample”
+7.	Put sync button on the bottom left of every page.
+8.      Added Serviced column to fsr list.
+9. 	Fixed way numeric input is validated. Nonnumeric sample values will trigger a popup warning and revert to last value.
